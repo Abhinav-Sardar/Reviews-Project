@@ -1,0 +1,12 @@
+img{
+    height:300px ; 
+    width: 300px;
+    border-radius:50%; 
+}
+button{
+    background-color: skyblue;
+    color:white ; 
+    height:40px ; 
+    width:100px; 
+    border:0 ; 
+}
